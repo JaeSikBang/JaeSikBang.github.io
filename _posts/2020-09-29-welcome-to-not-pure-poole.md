@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Welcome to Not Pure Poole
-date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
-toc:  true
+date: '2020-09-29 23:18 +0800'
+last_modified_at: '2020-10-01 01:08:25 +0800'
+tags:
+  - jekyll theme
+  - jekyll
+  - tutorial
+toc: true
+published: true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
+hello! This is an example post to show the layout.
 {: .message }
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
@@ -15,7 +19,8 @@ Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Etiam porta **sem malesuada magna** mollis euismod. Cras
+mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 ## Inline HTML elements
 
