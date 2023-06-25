@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 나여
+title: 안녕하세요! 첫 Github 블로그 포스팅 입니다\(^_^)/
 date: '2020-09-29 23:18 +0800'
 last_modified_at: '2020-10-01 01:08:25 +0800'
 tags:
@@ -10,7 +10,7 @@ tags:
 toc: true
 published: true
 ---
-hello! This is an example post to show the layout.
+첫 Github 블로그 포스팅 입니다!!
 {: .message }
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
